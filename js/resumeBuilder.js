@@ -15,7 +15,7 @@ var bio = {
   contacts: {
     mobile: "+55 21 972178264",
     email: "nandosangenetto@gmail.com",
-    github: "sangenetto",
+    github: "nandosangenetto",
     twitter: "nandosang",
     location: "Tijuca, Rio de Janeiro",
   },
